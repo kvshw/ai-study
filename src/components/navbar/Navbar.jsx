@@ -7,8 +7,8 @@ import logo from '../../assets/logo.svg'
 const Menu = () => (
     <>
         <p><a href='#home'>Home</a></p>
-        <p><a href='#wgpt3'>What is VisionForge</a></p>
-        <p><a href='#possibility'>Styragon</a></p>
+        <p><a href='#wgpt3'>VisionForge</a></p>
+        <p><a href='#possibility'>Imagination</a></p>
         <p><a href='#features'>Case Study</a></p>
         <p><a href='#blog'>Library</a></p>
     </>
@@ -24,12 +24,14 @@ const Navbar = () => {
                 <div className="gpt3__navbar-links_logo">
                     <img src={logo} alt='' />
                 </div>
-                <div className="gpt3__navbar-links_container">
-                    <Menu />
-                </div>
+
             </div>
             <div className="gpt3__navbar-sign">
-                <p>Sign in</p>
+                <div className="gpt3__navbar-links_container">
+                    <Menu />
+                    <p className='gpt3__navbar-links_container_p'>Sign in</p>
+                </div>
+
                 <button type="button">Sign up</button>
             </div>
             <div className="gpt3__navbar-menu">
