@@ -6,17 +6,17 @@ import './blog.css';
 const Blog = () => (
     <div className="vision__blog section__padding" id="blog">
         <div className="vision__blog-heading">
-            <h1 className="gradient__text">A lot is happening, <br /> We are blogging about it.</h1>
+            <h1 className="gradient__text">Exploring the Frontiers of AI <br /> We are blogging about AI.</h1>
         </div>
         <div className="vision__blog-container">
             <div className="vision__blog-container_groupA">
-                <Article imgUrl={blog01} date="Sep 26, 2021" text="GPT-3 and Open  AI is the future. Let us explore how it is?" />
+                <Article imgUrl={blog01} date="Sep 26, 2021" text="Unlocking the Potential of Predictive Maintenance with AI" />
             </div>
             <div className="vision__blog-container_groupB">
-                <Article imgUrl={blog02} date="Sep 26, 2021" text="GPT-3 and Open  AI is the future. Let us explore how it is?" />
-                <Article imgUrl={blog03} date="Sep 26, 2021" text="GPT-3 and Open  AI is the future. Let us explore how it is?" />
-                <Article imgUrl={blog04} date="Sep 26, 2021" text="GPT-3 and Open  AI is the future. Let us explore how it is?" />
-                <Article imgUrl={blog05} date="Sep 26, 2021" text="GPT-3 and Open  AI is the future. Let us explore how it is?" />
+                <Article imgUrl={blog02} date="Sep 26, 2021" text="Revolutionizing Customer Experiences with Chatbot AI" />
+                <Article imgUrl={blog03} date="Sep 26, 2021" text="The Benefits and Challenges of Implementing AI in Supply Chain Management" />
+                <Article imgUrl={blog04} date="Sep 26, 2021" text="How AI is Transforming the Financial Services Industry" />
+                <Article imgUrl={blog05} date="Sep 26, 2021" text="The Future of Image Recognition: Opportunities and Advancements" />
             </div>
         </div>
     </div>

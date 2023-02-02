@@ -4,27 +4,27 @@ import './features.css';
 
 const featuresData = [
     {
-        title: 'Improving end distrusts instantly',
-        text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+        title: 'Customized AI Solutions',
+        text: 'VisionForge AI provides businesses with customized AI solutions that meet their specific needs and requirements.',
     },
     {
-        title: 'Become the tended active',
-        text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+        title: 'Cutting-Edge AI Technologies',
+        text: 'VisionForge AI leverages the latest advancements in AI, including machine learning and deep neural networks, to provide businesses with innovative technology solutions',
     },
     {
-        title: 'Message or am nothing',
-        text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+        title: 'Improved Operational Processes',
+        text: 'VisionForge AI helps businesses streamline their operational processes, reduce manual workload, and increase efficiency.',
     },
     {
-        title: 'Really boy law county',
-        text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+        title: 'Passion for AI and Commitment to Excellence',
+        text: 'VisionForge AI is passionate about AI and committed to excellence, striving to be a trusted partner for businesses of all sizes.',
     },
 ];
 
 const Features = () => (
     <div className="vision__features section__padding" id="features">
         <div className="vision__features-heading">
-            <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
+            <h1 className="gradient__text">Empowering Businesses to Unlock Their Full Potential by Realizing a Future of Endless Possibilities</h1>
             <p>Request Early Access to Get Started</p>
         </div>
         <div className="vision__features-container">

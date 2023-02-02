@@ -9,8 +9,8 @@ const Possibility = () => (
         </div>
         <div className="vision__possibility-content">
             <h4>Request Early Access to Get Started</h4>
-            <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-            <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+            <h1 className="gradient__text">Transforming Businesses,  <br /> Shaping the Future</h1>
+            <p>A world where businesses are transformed and shaped by the power of AI. With our innovative AI solutions and commitment to excellence, we aim to help businesses unlock their full potential and stay ahead in a rapidly evolving market. Join us on our journey to create a future where AI drives innovation, efficiency, and growth for all.</p>
             <h4>Request Early Access to Get Started</h4>
         </div>
     </div>

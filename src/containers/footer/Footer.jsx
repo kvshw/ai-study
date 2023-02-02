@@ -5,7 +5,7 @@ import './footer.css';
 const Footer = () => (
     <div className="vision__footer section__padding">
         <div className="vision__footer-heading">
-            <h1 className="gradient__text">Do you want to step in to the future before others</h1>
+            <h1 className="gradient__text">Join the AI Revolution Today <br />Partner with VisionForge AI</h1>
         </div>
 
         <div className="vision__footer-btn">

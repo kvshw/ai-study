@@ -33,6 +33,11 @@
     color: #FF27DD !important;
 }
 
+.vision__navbar-links_container_p:hover {
+    margin-top: 1.6px !important;
+    color: #c900ab !important;
+}
+
 .vision__navbar-sign {
     display: flex;
     justify-content: flex-end;
@@ -72,6 +77,21 @@
     padding: 0.5rem 1.5rem;
     color: #fff;
     background: var(--gradient-btn);
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 25px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.vision__navbar-sign button:hover,
+.vision__navbar-menu_container button:hover {
+    padding: 0.5rem 1.5rem;
+    color: #fff;
+    background: var(--gradient-btn-rev);
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 14px;
