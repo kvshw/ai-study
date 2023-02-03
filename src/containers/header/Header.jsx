@@ -18,7 +18,7 @@ const Header = () => {
 
                 <div className="vision__header-content__people">
                     <img src={people} alt='' />
-                    <p>1,600 people requested access a visit in last 24 hours</p>
+                    <p>2720 people requested access a visit in last 24 hours</p>
                 </div>
             </div>
 
