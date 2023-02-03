@@ -45,7 +45,7 @@
     min-height: 50px;
     font-family: var(--font-family);
     font-weight: 400;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 28px;
     background: var(--color-footer);
     border: 2px solid var(--color-footer);
@@ -63,7 +63,7 @@
     min-height: 50px;
     font-family: var(--font-family);
     font-weight: 400;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 28px;
     background: var(--gradient-btn);
     border: 2px solid var(--gradient-btn);
